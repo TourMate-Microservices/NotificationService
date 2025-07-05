@@ -1,0 +1,6 @@
+@TourMate.NotificationService.Api_HostAddress = http://localhost:5239
+
+GET {{TourMate.NotificationService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
