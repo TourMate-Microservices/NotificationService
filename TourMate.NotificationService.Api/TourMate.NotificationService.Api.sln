@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourMate.NotificationService.Api", "TourMate.NotificationService.Api\TourMate.NotificationService.Api.csproj", "{64C83C73-AEC6-4AE3-AB81-14975F585F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourMate.NotificationService.Services", "TourMate.NotificationService.Services\TourMate.NotificationService.Services.csproj", "{9405495A-7BAE-4285-B8AE-F559EBD399F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourMate.NotificationService.Repositories", "TourMate.NotificationService.Repositories\TourMate.NotificationService.Repositories.csproj", "{E39C52E1-F22A-40BA-BC27-3020F385C194}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{64C83C73-AEC6-4AE3-AB81-14975F585F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C83C73-AEC6-4AE3-AB81-14975F585F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C83C73-AEC6-4AE3-AB81-14975F585F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9405495A-7BAE-4285-B8AE-F559EBD399F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9405495A-7BAE-4285-B8AE-F559EBD399F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9405495A-7BAE-4285-B8AE-F559EBD399F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9405495A-7BAE-4285-B8AE-F559EBD399F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39C52E1-F22A-40BA-BC27-3020F385C194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39C52E1-F22A-40BA-BC27-3020F385C194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39C52E1-F22A-40BA-BC27-3020F385C194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39C52E1-F22A-40BA-BC27-3020F385C194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

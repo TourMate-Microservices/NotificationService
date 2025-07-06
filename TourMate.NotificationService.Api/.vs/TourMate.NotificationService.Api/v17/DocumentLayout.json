@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Code\\TourMate_Microservices\\NotificationService\\TourMate.NotificationService.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C83C73-AEC6-4AE3-AB81-14975F585F20}|TourMate.NotificationService.Api\\TourMate.NotificationService.Api.csproj|d:\\code\\tourmate_microservices\\notificationservice\\tourmate.notificationservice.api\\tourmate.notificationservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64C83C73-AEC6-4AE3-AB81-14975F585F20}|TourMate.NotificationService.Api\\TourMate.NotificationService.Api.csproj|solutionrelative:tourmate.notificationservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39C52E1-F22A-40BA-BC27-3020F385C194}|TourMate.NotificationService.Repositories\\TourMate.NotificationService.Repositories.csproj|d:\\code\\tourmate_microservices\\notificationservice\\tourmate.notificationservice.api\\tourmate.notificationservice.repositories\\context\\tourmatenotificationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39C52E1-F22A-40BA-BC27-3020F385C194}|TourMate.NotificationService.Repositories\\TourMate.NotificationService.Repositories.csproj|solutionrelative:tourmate.notificationservice.repositories\\context\\tourmatenotificationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\TourMate_Microservices\\NotificationService\\TourMate.NotificationService.Api\\TourMate.NotificationService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TourMate.NotificationService.Api\\appsettings.json",
+              "ToolTip": "D:\\Code\\TourMate_Microservices\\NotificationService\\TourMate.NotificationService.Api\\TourMate.NotificationService.Api\\appsettings.json",
+              "RelativeToolTip": "TourMate.NotificationService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T08:33:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TourMateNotificationContext.cs",
+              "DocumentMoniker": "D:\\Code\\TourMate_Microservices\\NotificationService\\TourMate.NotificationService.Api\\TourMate.NotificationService.Repositories\\Context\\TourMateNotificationContext.cs",
+              "RelativeDocumentMoniker": "TourMate.NotificationService.Repositories\\Context\\TourMateNotificationContext.cs",
+              "ToolTip": "D:\\Code\\TourMate_Microservices\\NotificationService\\TourMate.NotificationService.Api\\TourMate.NotificationService.Repositories\\Context\\TourMateNotificationContext.cs",
+              "RelativeToolTip": "TourMate.NotificationService.Repositories\\Context\\TourMateNotificationContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:33:32.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
